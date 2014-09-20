@@ -1,0 +1,3 @@
+# New in Spacegray-Monokai 1.0.0
+
+* The Spacegray-Monokai theme is born

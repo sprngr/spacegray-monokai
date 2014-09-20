@@ -1,0 +1,27 @@
+Thanks for installing Spacegray-Monokai!
+
+
+How to activate
+===============
+
+Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
+
+Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
+
+
+Spacegray-Monokai
+-----------------
+
+Default flavor based on Base16 Monokai color scheme.
+
+*Example settings*
+
+    {
+      "theme": "Spacegray Monokai.sublime-theme",
+      "color_scheme": "Packages/Theme - Spacegray-Monokai/base16-monkai.dark.tmTheme"
+    }
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
