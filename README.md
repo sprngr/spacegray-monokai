@@ -135,6 +135,17 @@ Tabs width:
 
 ***
 
+### Notes
+
+All colors have their base16 value (00-0F) commented next to it for future use (more theming).
+
+Any of them that have a negative sign in front of it are a shade darker of the original.
+
+Those colors used are documented here:
+
+* -00: #181913 // Each channel was reduced by 15
+* -01: #26261d // Each channel was reduced by 19
+
 ### Thanks
 
 Thanks to [Ghadzhi Kharkharov](https://github.com/kkga) for creating the original Spacegray themes.
