@@ -25,7 +25,7 @@ Default flavor based on Base16 Monokai color scheme.
 
 ### How to Install
 
-#### Via Package Control
+#### Via Package Control -- Awaiting Pull Request, Not Available Yet
 
 The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray-Monokai is listed as `Theme - Spacegray-Monokai`.
 
