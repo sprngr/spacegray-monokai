@@ -12,7 +12,11 @@ Color values come from [Base16](https://github.com/chriskempson/base16) Monokai 
 
 Default flavor based on Base16 Monokai color scheme.
 
-![image](screenshots/spacegray-monkai.png)
+![image](screenshots/spacegray-monokai.png)
+
+#### Spacegray-Monokai Light
+
+*Coming Eventually*
 
 
 *The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*

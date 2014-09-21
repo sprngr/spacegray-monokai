@@ -254,7 +254,7 @@
     {
         "class": "puck_control",
         "layer0.texture": "",
-        "layer0.tint": [60, 60, 60],
+        "layer0.tint": [56, 56, 48], // 01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "content_margin": [6,0],
