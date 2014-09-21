@@ -27,7 +27,7 @@ Default flavor based on Base16 Monokai color scheme.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray is listed as `Theme - Spacegray`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray-Monokai is listed as `Theme - Spacegray-Monokai`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
@@ -47,11 +47,10 @@ You can also install the theme manually:
 
 Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
 
-You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
-#### Settings for Spacegray
+#### Settings for Spacegray-Monokai
 
 ```json
 {
