@@ -47,7 +47,7 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
 ```json
 {
   "theme": "Spacegray Monokai.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray-Monokai/base16-monkai.dark.tmTheme"
+  "color_scheme": "Packages/Theme - Spacegray-Monokai/base16-monokai.dark.tmTheme"
 }
 ```
 
